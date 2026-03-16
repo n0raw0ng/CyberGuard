@@ -2,7 +2,7 @@
 
 <h3>Table of Contents</h3>
 <ul>
-  <li><a href="#description">Executive Summary</a></li>
+  <li><a href="#description">Description</a></li>
   <li><a href="#objectives">Project Objectives</a></li>
   <li><a href="#gameplay">Gameplay & Levels</a></li>
   <li><a href="#video-showcase">Video Showcase</a></li>
@@ -12,7 +12,7 @@
 
 <hr />
 
-<h2 id="description">Executive Summary</h2>
+<h2 id="description">Description</h2>
 <p>
   CyberGuard is an interactive educational mobile application designed to bridge the gap between cybersecurity awareness and practical application. By gamifying defenses against phishing, vishing, and weak password security, CyberGuard transforms passive learning into an engaging, high-retention experience.
 </p>
